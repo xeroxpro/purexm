@@ -34,7 +34,7 @@
         "priority": null,
         "memory-pool": true,
         "yield": true,
-        "max-cpu-usage": 80, 
+        "max-cpu-usage": 94, 
         "max-threads-hint": 100,
         "threads": 4,
         "asm": true,
