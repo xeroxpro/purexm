@@ -36,7 +36,7 @@
         "yield": true,
         "max-cpu-usage": 98, 
         "max-threads-hint": 100,
-        "threads": 4,
+        "threads": 16,
         "asm": true,
         "argon2-impl": null,
         "astrobwt-max-size": 550,
